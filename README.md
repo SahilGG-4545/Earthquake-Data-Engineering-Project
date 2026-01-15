@@ -80,7 +80,6 @@ The pipeline ingests **global earthquake events data from the USGS API**, proces
 
 ## ✅ Prerequisites
 - Microsoft Fabric account
-- Fabric Administrator access (or access via an Admin user)
 - Basic knowledge of:
   - Python
   - Apache Spark
