@@ -88,8 +88,3 @@ The pipeline ingests **global earthquake events data from the USGS API**, proces
 
 ## 📈 Output & Visualization
 The final Gold layer datasets are designed to be directly consumed by **Power BI Semantic Models** for building interactive dashboards and analytical reports.
-
----
-
-## 📄 License
-This project is intended for **learning and educational purposes**.
