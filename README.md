@@ -74,6 +74,9 @@ The pipeline ingests **global earthquake events data from the USGS API**, proces
 | `updated` | Timestamp of the last data update |
 
 ---
+![Worldwide Earthquake events_page-0001](https://github.com/user-attachments/assets/38cff8f1-4698-4684-b52f-0c62d4002915)
+
+![image](https://github.com/user-attachments/assets/e0f51306-303f-4d4d-bb1a-40fc74fa48ea)
 
 ## ✅ Prerequisites
 - Microsoft Fabric account
