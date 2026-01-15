@@ -25,16 +25,6 @@ The pipeline ingests **global earthquake events data from the USGS API**, proces
 
 ---
 
-## 🧑‍💻 Getting Started
-To get started with this project:
-
-1. Clone this repository.
-2. Download and open the notebooks in **Microsoft Fabric**.
-3. Follow the step-by-step guidance provided in the accompanying **YouTube tutorial**.
-4. Execute the notebooks sequentially (Bronze → Silver → Gold).
-
----
-
 ## 📂 Repository Contents
 
 ### 🥉 Bronze Layer – Raw Data Ingestion
